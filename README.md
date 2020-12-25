@@ -11,5 +11,6 @@ There projects are,
 5) Area of circle
 6) Calculate simple Intrest
 7) Find Leap year or not
+8) Number guessing game
 
 and more projects....
