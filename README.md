@@ -10,5 +10,6 @@ There projects are,
 4) Find the length of a string
 5) Area of circle
 6) Calculate simple Intrest
+7) Find Leap year or not
 
 and more projects....
