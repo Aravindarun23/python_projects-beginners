@@ -13,6 +13,6 @@ There projects are,
 7) Find Leap year or not
 8) Number guessing game
 9) Base64 Encryption and decryption in python
-10) Simple calender
+10) Simple calendar
 11) Instagram profile downloader
 and more projects....
