@@ -15,4 +15,5 @@ There projects are,
 9) Base64 Encryption and decryption in python
 10) Simple calendar
 11) Instagram profile downloader
+12) Get covid cases
 and more projects....
