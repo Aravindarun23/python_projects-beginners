@@ -20,4 +20,5 @@ There projects are,
 14) Printing Days In a week
 15) Traffic Signal
 16) Compare Two numbers
+17) Roots of quadratic equation
 and more projects....
