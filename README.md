@@ -19,4 +19,5 @@ There projects are,
 13) Students Grade Calculation
 14) Printing Days In a week
 15) Traffic Signal
+16) Compare Two numbers
 and more projects....
