@@ -15,7 +15,7 @@ There projects are,
 9) Base64 Encryption and decryption
 10) Simple calendar    
 11) Instagram profile downloader  
-12) Get covid cases     -
+12) Get covid cases    
 13) Students Grade Calculation
 14) Printing Days In a week
 15) Traffic Signal
