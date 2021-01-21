@@ -21,4 +21,6 @@ There projects are,
 15) Traffic Signal
 16) Compare Two numbers
 17) Roots of quadratic equation
-and more projects....
+18) divisible-by-5-not-by-10 (for loop )
+19) factors of a given number.py (for loop)
+20) fibonacci (for loop)
