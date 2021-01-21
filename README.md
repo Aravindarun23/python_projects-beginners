@@ -11,7 +11,7 @@ There projects are,
 5) Area and circumference
 6) Calculate simple Intrest   
 7) Find Leap year or not     
-8) Number guessing game     -
+8) Number guessing game    
 9) Base64 Encryption and decryption in python   -
 10) Simple calendar     -
 11) Instagram profile downloader    -
