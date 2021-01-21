@@ -8,7 +8,7 @@ There projects are,
 2) To find Sqaure of a number
 3) Check the number odd or even
 4) Find the length of a string
-5) Area of circle      - 
+5) Area and circumference
 6) Calculate simple Intrest   -
 7) Find Leap year or not     -
 8) Number guessing game      -
