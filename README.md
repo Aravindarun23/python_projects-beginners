@@ -9,9 +9,9 @@ There projects are,
 3) Check the number odd or even
 4) Find the length of a string
 5) Area and circumference
-6) Calculate simple Intrest   -
-7) Find Leap year or not     -
-8) Number guessing game      -
+6) Calculate simple Intrest   
+7) Find Leap year or not     
+8) Number guessing game     -
 9) Base64 Encryption and decryption in python   -
 10) Simple calendar     -
 11) Instagram profile downloader    -
