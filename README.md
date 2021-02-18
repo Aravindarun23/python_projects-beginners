@@ -26,7 +26,12 @@ There projects are,
 20) fibonacci (for loop)
 21) Write a program to generate in the Fibonacci series and store it in a list. Then find the sum
 of all values ( 100 problems )
-
+22) Program to return the maximum as well as minimum values in a list ( 100 problems )
+23) Write a program to swap two values using tuple assignment. ( 100 problems )
+24) Write a program using a function that returns the area and circumference of a circle whose
+radius is passed as an argument. two values using tuple assignment ( 100 problems )
+25) Write a program that has a list of positive and negative numbers. Create a new tuple that
+has only positive numbers from the list ( 100 problems )
 
 ### Need problems? Download it here 👇
 
