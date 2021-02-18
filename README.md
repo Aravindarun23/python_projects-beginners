@@ -24,6 +24,8 @@ There projects are,
 18) divisible-by-5-not-by-10 (for loop )
 19) factors of a given number.py (for loop)
 20) fibonacci (for loop)
+21) Write a program to generate in the Fibonacci series and store it in a list. Then find the sum
+of all values ( 100 problems )
 
 
 ### Need problems? Download it here 👇
