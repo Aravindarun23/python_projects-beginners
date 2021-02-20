@@ -1,5 +1,3 @@
-print("START OF THE PROGRAM\n")
-
 my_list = []
 n1 = 0
 n2 = 1
@@ -23,5 +21,5 @@ for i in my_list:
     sum += i
 
 print("\nSum of Fibonacci series is =",sum)
-print("\nEND OF THE PROGRAM")
+
 
