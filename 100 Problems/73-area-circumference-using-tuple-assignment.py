@@ -1,5 +1,3 @@
-print("START OF THE PROGRAM\n")
-
 radius = float(input("Enter radius: "))
 
 def AreaCir(radius):
@@ -11,4 +9,3 @@ area,cir=AreaCir(radius)
 
 print("\nArea of the circle is =",area)
 print("Circumference of the circle =",cir)
-print("\nEND OF THE PROGRAM")
