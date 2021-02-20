@@ -34,8 +34,9 @@ https://drive.google.com/file/d/1WavPcevxA9ANyutYljyicyVcWZoCY-48/view?usp=shari
 
 =========[ 100 PROBLEMS ]=========
 
-Basic Program
+### Basic Program
 
+```
 1. Getting and display students information
 2. Area and circumstance of circle
 3. Simple Interest
@@ -46,9 +47,11 @@ Basic Program
 8. Swap two numbers
 9. Circulate n variables
 10. Celsius into Fahrenheit
+```
 
-Branching
+### Branching
 
+```
 11. Write a program to check whether the given number is odd or even.
 12. Write a program to check whether the given character is a vowel or not.
 13. Using if..else..elif statement check smallest of three numbers.
@@ -62,9 +65,11 @@ years.Ask user for their salary and year of service and print the net bonus amou
 20. A student will not be allowed to sit in exam if his/her attendance is less than 75% and allow
 student to sit if he/she has medical cause upto 65%. Ask user if he/she has medical cause or
 not ( 'Y' or 'N' ) and print accordingly.
+```
 
-Looping
+### Looping
 
+```
 21. Write a program to display Fibonacci series 0 1 1 2 3 4 5…… (upto n terms)
 22. Write a program to find a factorial of a number.
 23. Write a program to display sum of natural numbers, upto n.
@@ -99,9 +104,11 @@ A B
 A B C
 A B C D
 A B C D E
+```
 
-String operation
+### String operation
 
+```
 36. Program to check whether the given string is palindrome or not
 37. Program to display the number of vowels and consonants in the given string
 38. Program to create an Abecedarian series. (Abecedarian refers list of elements appear in
@@ -119,8 +126,11 @@ it
 48. Write a program to swap two strings.
 49. Write a program to replace a string with another string without using replace().
 50. Write a program to count the number of characters, words and lines in a given string.
+```
 
-Functions
+### Functions
+
+```
 51. Write a program to swap two numbers using temporary variables
 52. Write a program to swap two numbers without using temporary variables
 53. Tower of hanoi.
@@ -134,10 +144,11 @@ Functions
 61. Insertion sort
 62. Merge sort
 63. quicksort
+```
 
+### List and tuple
 
-List and tuple
-
+```
 64. Write a python Program to calculate the average of numbers in a list
 65. Python program to update/change single value in a list
 66. Generating squares of first 10 natural numbers, sum of array of numbers
@@ -167,17 +178,22 @@ numbers from the list that are divisible by 3.
 do the same.
 84. Write a program that prints the maximum and minimum value in a dictionary.
 85. Histogram
+```
 
+### FILE and Command line arguments
 
-FILE and Command line arguments
-
+```
 86. Argument count
 87. sum of arguments
 File
 88. Most Frequent Word
 89. Word count
 90. Copy File
-Advanced:
+```
+
+### Advanced:
+
+```
 91. Simulation of elliptical orbits in pygame
 92. Simulation of bouncing ball in pygame
 93. Program on read and display the csv files
@@ -193,4 +209,5 @@ prompt to enter quantity of all the products. Finally generate a bill which disp
 amount to be paid
 97. Plot a line chart on the academic performance of Class for the past 10 years.
 98. Plot a bar chart for the student’s subject wise performance
+```
 
