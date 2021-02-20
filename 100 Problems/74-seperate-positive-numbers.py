@@ -1,5 +1,3 @@
-print("START OF THE PROGRAM\n")
-
 # generating  positive and negative numbers in a list
 my_list = list(range(-10,11,1))
 print("My list:\n",my_list)
@@ -15,4 +13,3 @@ for i in my_list:
 pos_tuple = tuple(pos_num)
 
 print("\nPositive numbers:\n",pos_tuple)
-print("\nEND OF THE PROGRAM")
