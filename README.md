@@ -48,6 +48,7 @@ Basic Program
 10. Celsius into Fahrenheit
 
 Branching
+
 11. Write a program to check whether the given number is odd or even.
 12. Write a program to check whether the given character is a vowel or not.
 13. Using if..else..elif statement check smallest of three numbers.
@@ -63,6 +64,7 @@ student to sit if he/she has medical cause upto 65%. Ask user if he/she has medi
 not ( 'Y' or 'N' ) and print accordingly.
 
 Looping
+
 21. Write a program to display Fibonacci series 0 1 1 2 3 4 5…… (upto n terms)
 22. Write a program to find a factorial of a number.
 23. Write a program to display sum of natural numbers, upto n.
