@@ -76,7 +76,7 @@ not ( 'Y' or 'N' ) and print accordingly.
 24. Write a program to display sum of odd numbers, upto n
 25. Write a program to display sum of digits of a number
 26. Reverse the given number.
-27. Write a program (a) to check if the given number is prime or not
+27.(a)Write a program to check if the given number is prime or not
 (b) first n prime numbers
 (c) Prime numbers with in a specified range
 28. Write a program to check if the given number is Armstrong or not.
